@@ -9,7 +9,7 @@ endif()
 
 cmake_minimum_required(VERSION 3.5)
 set(project ina219)
-project(${project} LANGUAGES C VERSION 1.0.0)
+project(${project} LANGUAGES C VERSION 1.0.1)
 
 add_library(ina219 STATIC lib/ina219.c lib/linux.c)
 target_include_directories(ina219 PUBLIC include)
