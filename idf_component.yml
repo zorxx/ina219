@@ -1,4 +1,4 @@
-version: "1.0.2"
+version: "1.0.3"
 description: "ina219 Voltage/Current/Power Sensor"
 url: "https://github.com/zorxx/ina219"
-license: "BSD"
+license: "BSD-3-Clause"
